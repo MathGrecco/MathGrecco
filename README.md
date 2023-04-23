@@ -8,7 +8,7 @@ i've been learning to code for 1 year, after switching careers. I joined to a co
 
 * 🌍  I'm based in Brazil - PR - Cianorte
 * ✉️  You can contact me at [matheusgrecco@hotmail.com](mailto:matheusgrecco@hotmail.com)
-* 🧠  I'm learning JavaScript, Java and PHP 8
+* 🧠  I'm learning JavaScript.
 * 🤝  I'm open to collaborating on In projects that can help anyone
 
 ### Skills
