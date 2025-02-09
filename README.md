@@ -1,4 +1,4 @@
-<h3>👋 Olá! Sou Matheus Grecco, Analista de Dados em formação, com foco atualmente em Data Analytics e BI. </h3>
+<h3>👋 Olá! Sou Matheus Grecco, estudante de Análise e Desenvolvimento de sistemas, com foco em Data Analytics e BI. </h3>
 
 ========================================================================================
 <h5>🔧 Stack & Ferramentas: </h5>
