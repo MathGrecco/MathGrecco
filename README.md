@@ -1,30 +1,24 @@
-Hello everyone! My name is Matheus Grecco
+👋 Olá! Sou Matheus Grecco, Analista de Dados em formação, com foco atualmente em Data Analytics e BI.
+
 ======================================================================================================================================
+🔧 Stack & Ferramentas:
 
-Web Developer
--------------
+ETL & Pipelines: Apache Airflow, Spark
+Data Lake & Query Engine: MinIO, Dremio, SQL
+Visualização: Apache Superset
+Linguagens: Python, SQL
+Containerização & Orquestração: Docker
 
-i've been learning to code for 1 year, after switching careers. I joined to a college of developer in brazil, where I am learning many technologies and making networks to learn more and more.
+======================================================================================================================================
+🎓 Formação:
 
-* 🌍  I'm based in Brazil - PR - Cianorte
-* ✉️  You can contact me at [matheusgrecco@hotmail.com](mailto:matheusgrecco@hotmail.com)
-* 🧠  I'm learning JavaScript.
-* 🤝  I'm open to collaborating on In projects that can help anyone
+Análise e Desenvolvimento de Sistemas 📚
 
-### Skills
+======================================================================================================================================
+📌 Projetos em andamento:
+TCC: Implantação de BI de baixo custo para empresas com ferramentas 100% open source
 
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+Explorando Big Data, DataOps e automação de processos analíticos.
 
 
 ### Socials
