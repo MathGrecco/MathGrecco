@@ -1,7 +1,7 @@
-👋 Olá! Sou Matheus Grecco, Analista de Dados em formação, com foco atualmente em Data Analytics e BI.
+<h3>👋 Olá! Sou Matheus Grecco, Analista de Dados em formação, com foco atualmente em Data Analytics e BI. </h3>
 
-======================================================================================================================================
-🔧 Stack & Ferramentas:
+========================================================================================
+<h5>🔧 Stack & Ferramentas: </h5>
 
 ETL & Pipelines: Apache Airflow, Spark
 Data Lake & Query Engine: MinIO, Dremio, SQL
@@ -9,13 +9,14 @@ Visualização: Apache Superset
 Linguagens: Python, SQL
 Containerização & Orquestração: Docker
 
-======================================================================================================================================
-🎓 Formação:
+========================================================================================
+<h5> Formação </h5>
 
-Análise e Desenvolvimento de Sistemas 📚
+📚 Análise e Desenvolvimento de Sistemas 
 
-======================================================================================================================================
-📌 Projetos em andamento:
+========================================================================================
+<h5> Projetos em andamento: </h5>
+
 TCC: Implantação de BI de baixo custo para empresas com ferramentas 100% open source
 
 Explorando Big Data, DataOps e automação de processos analíticos.
